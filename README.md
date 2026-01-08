@@ -28,7 +28,7 @@ A modern, responsive personal portfolio website built with React and Vite. Desig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/alfifebri/portfolio.git
    cd portfolio
    ```
 
