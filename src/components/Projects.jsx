@@ -6,7 +6,7 @@ import Button from './ui/Button';
 
 const projects = [
     {
-        title: 'E-Commerce Platform',
+        title: 'E-Commerce-mini',
         description: 'A full-featured online store with cart, checkout, and payment integration.',
         tech: ['React', 'Node.js', 'MongoDB'],
         github: '#',
