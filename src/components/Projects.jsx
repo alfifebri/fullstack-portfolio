@@ -7,10 +7,10 @@ import Button from './ui/Button';
 const projects = [
     {
         title: 'E-Commerce-mini',
-        description: 'A full-featured online store with cart, checkout, and payment integration.',
-        tech: ['React', 'Node.js', 'MongoDB'],
-        github: '#',
-        live: '#',
+        description: 'Modern e-commerce app with product catalog, dynamic cart management, and checkout flow. Features smooth animations and responsive design.',
+        tech: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
+        github: 'https://github.com/alfifebri/ecommerce-mini',
+        live: 'https://ecommerce-mini-phi.vercel.app',
         image: 'https://images.unsplash.com/photo-1557821552-17105176677c?w=800&q=80',
     },
     {
