@@ -16,8 +16,10 @@ const About = () => {
     return (
         <Section id="about" className="about-section">
             <h2 className="heading-lg text-center">About Me</h2>
-            <p className="text-lead text-center mx-auto">
-                Passionate developer with a kick for clean code and user-centric design.
+            <p className="text-lead text-center mx-auto mb-8 max-w-2xl">
+                I am a Fullstack Developer with a strong focus on building modern, user-centric web applications. I enjoy working with technologies like Next.js, TypeScript, Tailwind CSS, and Firebase to create scalable, real-time applications with clean architecture and smooth user experiences.
+                <br /><br />
+                I pay close attention to UI/UX details, performance, and maintainability, and I enjoy turning ideas into polished, production-ready products.
             </p>
 
             <div className="skills-grid">
