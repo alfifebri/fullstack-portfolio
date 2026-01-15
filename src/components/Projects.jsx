@@ -22,11 +22,11 @@ const projects = [
         image: 'https://images.unsplash.com/photo-1540350394557-8d14678e7f91?w=800&q=80',
     },
     {
-        title: 'Weather Dashboard',
-        description: 'Real-time weather application using OpenWeatherMap API with location detection.',
-        tech: ['React', 'API Integration', 'CSS Grid'],
-        github: '#',
-        live: '#',
+        title: 'Weather.io — Real-Time Weather Dashboard',
+        description: 'A modern, responsive weather dashboard built with React. It fetches real-time weather data from OpenWeatherMap and includes graceful fallback demo data to ensure the app remains usable even when the API is unavailable.',
+        tech: ['React (Vite)', 'OpenWeatherMap API', 'CSS Grid', 'Vanilla CSS', 'Custom React Hooks'],
+        github: 'https://github.com/alfifebri/weather.io',
+        live: 'https://weather-io-nine.vercel.app/',
         image: 'https://images.unsplash.com/photo-1592210454359-9043f067919b?w=800&q=80',
     },
 ];
