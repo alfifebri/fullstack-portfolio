@@ -18,7 +18,7 @@ const projects = [
         description: 'A modern task management (Kanban) application that allows users to manage daily tasks with real-time updates. Users can create, edit, delete, and drag tasks between Todo, In Progress, and Done columns. The app features Firebase authentication, real-time Firestore syncing, smooth drag-and-drop interactions, and a professional dark-themed UI with subtle animations.',
         tech: ['Next.js', 'TypeScript', 'Tailwind', 'Firebase', 'Framer Motion', 'dnd-kit'],
         github: 'https://github.com/alfifebri/task-management-app',
-        live: 'https://task-management-pezooczzg-alfifebris-projects.vercel.app',
+        live: 'https://vercel.com/alfifebris-projects/task-management-app',
         image: 'https://images.unsplash.com/photo-1540350394557-8d14678e7f91?w=800&q=80',
     },
     {
